@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G-RajeshKumar
-- 👀 I’m an ICT architect, specialised in storage and converged platforms
+- 👀 I’m an ICT Architect, specialised in Storage Networking and Converged Platforms..
 - 🌱 I’m currently learning automation and picking up opensource and trying to experience various tools. 
-- 💞️ I’m looking to collaborate on developing next level autonomous ICT management solutions...
+- 💞️ I’m looking to collaborate on developing next-level autonomous ICT management solutions...
 - 📫 email me ; rajeshkumarking@gmail.com
 
 <!---
